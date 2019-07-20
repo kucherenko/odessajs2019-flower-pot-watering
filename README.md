@@ -9,7 +9,7 @@
 
 ## Specs, Code snippets and Steps
 
-[Nest.JS Workshop Steps](https://www.notion.so/Code-Snippets-9bed925c86f241f59216027ed1ea022f)
+[Nest.JS Workshop Steps](https://www.notion.so/OdessaJS-2019-NestJS-Workshop-54e13c1be57842a6ba42da0eb665d39e)
 
 ## Installation
 
