@@ -1,0 +1,24 @@
+mixin header(message)
+    h1.ui.header
+        i.recycle.icon
+        .content #{message}
+    .ui.divider
+
+mixin footer
+    .ui.divider
+    footer: p &copy; Flower Pot Watering
+
+doctype html
+html(lang='en')
+    head
+        title Flower Pot Watering
+        link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css')
+    body
+        .ui.container
+            .ui.basic.segment: +header('Flower Pot Watering')
+            section: .ui.segment
+                h2.ui.header The Flower Pot Watering Application
+                img.ui.fluid.image(src='flower-pots.jpeg')
+            .ui.basic.segment: +footer()
+        script(src='https://code.jquery.com/jquery-3.2.1.min.js', crossorigin='anonymous')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js')
