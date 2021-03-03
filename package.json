@@ -33,7 +33,7 @@
     "class-validator": "^0.9.1",
     "moment": "^2.24.0",
     "nest-schedule": "^0.6.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3",
