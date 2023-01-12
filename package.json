@@ -30,7 +30,7 @@
     "@nestjsx/crud": "^4.1.0",
     "@nestjsx/crud-typeorm": "^4.1.0",
     "class-transformer": "^0.3.1",
-    "class-validator": "^0.9.1",
+    "class-validator": "^0.14.0",
     "moment": "^2.24.0",
     "nest-schedule": "^0.6.2",
     "pug": "^2.0.4",
